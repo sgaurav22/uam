@@ -49,7 +49,7 @@ public class Role {
      * @return the string [ ]
      */
     public static String[] getAllRoles() {
-        return new String[]{USER, POWERUSER, ADMIN, STUDENT,
+        return new String[]{USER, POWERUSER, ADMIN, STUDENT, FACULTY,
                 "ROLE_"+USER, "ROLE_"+POWERUSER, "ROLE_"+ADMIN, "ROLE_"+STUDENT, "ROLE_"+FACULTY}; // added ROLE_ prefix for Azure AD
     }
 
