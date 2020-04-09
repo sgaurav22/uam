@@ -1,3 +1,6 @@
+/*
+ * Copyright (c) 2018. MAV All Rights Reserved
+ */
 package com.mav.business.service;
 
 import com.mav.business.model.User;
